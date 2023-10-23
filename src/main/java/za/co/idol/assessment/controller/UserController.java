@@ -12,7 +12,7 @@ import za.co.idol.assessment.service.UserService;
 import java.util.List;
 
 @RestController
-@RequestMapping("/withdrawals")
+@RequestMapping("/users")
 @Validated
 public class UserController {
 
